@@ -10,7 +10,7 @@ export default function Hero() {
           <p className="mb-4 text-cyan-400">Hello, I'm</p>
 
           <h1 className="text-5xl font-bold leading-tight md:text-7xl">
-            Srimathi Nagaraja
+            Srimathi Nagarajan
           </h1>
 
           <h2 className="mt-4 text-2xl font-semibold text-slate-300 md:text-3xl">
