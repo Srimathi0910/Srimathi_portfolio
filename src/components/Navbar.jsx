@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="fixed top-0 z-50 w-full border-b border-white/10 bg-slate-950/80 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <a href="#home" className="text-xl font-bold">
-          Your<span className="text-cyan-400">Name</span>
+          Srimathi <span className="text-cyan-400">Nagarajan</span>
         </a>
 
         <div className="hidden gap-6 md:flex">
