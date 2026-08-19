@@ -8,7 +8,7 @@ import Education from "./components/Education";
 import Certifications from "./components/Certifications";
 import Achievements from "./components/Achievements";
 import Journey from "./components/Journey";
-import ProblemSolving from "./components/ProblemSolving";
+// import ProblemSolving from "./components/ProblemSolving";
 import Github from "./components/Github";
 import Learning from "./components/Learning";
 import Interests from "./components/Interests";

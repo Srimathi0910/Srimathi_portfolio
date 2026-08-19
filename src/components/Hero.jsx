@@ -46,7 +46,7 @@ export default function Hero() {
           {/* Social Links */}
           <div className="mt-8 flex gap-6">
             <a
-              href="https://github.com/"
+              href="https://github.com/Srimathi0910/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-slate-300 transition hover:text-cyan-400"
