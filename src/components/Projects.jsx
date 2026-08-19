@@ -13,7 +13,7 @@ const projects = [
     description:
       "A responsive food website designed with a clean and user-friendly interface using HTML and CSS.",
     technologies: ["HTML", "CSS"],
-    github: "https://github.com/",
+    github: "https://github.com/Srimathi0910/omni-food",
     live: "#",
     image: "/projects/omni-food.png",
   },
