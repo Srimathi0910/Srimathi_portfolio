@@ -14,7 +14,7 @@ const projects = [
       "A responsive food website designed with a clean and user-friendly interface using HTML and CSS.",
     technologies: ["HTML", "CSS"],
     github: "https://github.com/Srimathi0910/omni-food",
-    live: "#",
+    live: "https://omni-food-five.vercel.app/ ",
     image: "/projects/omni-food.png",
   },
   {
@@ -85,14 +85,14 @@ export default function Projects() {
                     GitHub →
                   </a>
 
-                  {/* <a
+                  <a
                     href={project.live}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm font-semibold text-cyan-400 transition hover:text-cyan-300"
                   >
                     Live Demo →
-                  </a> */}
+                  </a>
                 </div>
               </div>
             </article>
