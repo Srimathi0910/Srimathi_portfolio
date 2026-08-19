@@ -73,7 +73,7 @@ export default function Hero() {
         </div>
 
         {/* Profile Image */}
-        <div className="flex justify-center">
+        {/* <div className="flex justify-center">
           <div className="relative">
             <div className="absolute inset-0 rounded-full bg-cyan-500/20 blur-3xl" />
 
@@ -83,7 +83,7 @@ export default function Hero() {
               className="relative h-64 w-64 rounded-full border-4 border-cyan-400/30 object-cover md:h-80 md:w-80"
             />
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
